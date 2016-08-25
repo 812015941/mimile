@@ -1,2 +1,3 @@
-mimileÎªÏîÄ¿Ô´ÎÄ¼ş£¬ÔÚ¡°ÎÒĞ´µÄÄÚÈİ¡±ÎÄ¼ş¼ĞÖĞÄÜ¹»¿´µ½ÎÒµ¥¶ÀÍê³ÉµÄjavaÎÄ¼şºÍÇ¶ÈëÁËjava´úÂëµÄjspÎÄ¼ş¡£
-ÔÚÕâ¸öÏîÄ¿ÖĞ£¬ÎÒµ£ÈÎÁËÁìµ¼ÕßµÄ½ÇÉ«£¬´ó²¿·ÖºóÌ¨´úÂëÓÉÎÒÍê³É£¬ÓëÇ°Ì¨µÄ½»»¥ÓÉÎÒÍê³É¡£
+mimileä¸ºé¡¹ç›®æºæ–‡ä»¶ï¼Œåœ¨â€œæˆ‘å†™çš„å†…å®¹â€æ–‡ä»¶å¤¹ä¸­èƒ½å¤Ÿçœ‹åˆ°æˆ‘å•ç‹¬å®Œæˆçš„javaæ–‡ä»¶å’ŒåµŒå…¥äº†javaä»£ç çš„jspæ–‡ä»¶ã€‚
+åœ¨è¿™ä¸ªé¡¹ç›®ä¸­ï¼Œæˆ‘æ‹…ä»»äº†é¢†å¯¼è€…çš„è§’è‰²ï¼Œå¤§éƒ¨åˆ†åå°ä»£ç ç”±æˆ‘å®Œæˆï¼Œä¸å‰å°çš„äº¤äº’ç”±æˆ‘å®Œæˆã€‚
+Mimile is a web project using struts2. I mainly participated in coding back end&interacted with front end.This is my first group project where our team was awarded "The Best Team" out of 30 and I was awarded "The Best Personnel" out of 200 during our internship as sophomores.
